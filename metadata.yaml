@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '9299'
     url: http://www.gutenberg.org/2009/agents/9299
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20442#A-Catalogue-of-Early-Pennsylvania-and-Other-Firearms-and-Edged-Weapons-at--Restless-Oaks--McE_
 gutenberg_issued: '2007-01-25'
 gutenberg_type: Text
 identifiers:
